@@ -46,6 +46,6 @@ The article should be public and accessible by anyone on the internet.
 
 ## Technical article
 
-you can read the article here, very detailed and concise: [Here](https://open.substack.com/pub/devhendrixx/p/linux-user-creation-bash-script?r=28tgq5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+you can read the article here, very detailed and concise: [Here](https://devhendrixx.substack.com/p/linux-user-creation-bash-script?r=28tgq5)
 
 submision link: [HNG 11 Stage 1 - DevOps Track Submission Form](https://forms.gle/8SiPKuwbEjViWRbKA)
